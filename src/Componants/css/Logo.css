@@ -1,0 +1,18 @@
+.logo{
+    position:relative;
+    display: flex;
+    justify-content: center;
+}
+.logo img{
+    height: 140px;
+    width: 450px;
+}
+
+@media screen and (max-width:480px) {
+    .logo img{
+        height: 100px;
+        width: 350px;
+    }
+      
+    
+}
