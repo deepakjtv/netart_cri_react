@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/netart_cri_react/static/css/main.af2878eb.chunk.css",
+    "main.js": "/netart_cri_react/static/js/main.0f691c6c.chunk.js",
+    "main.js.map": "/netart_cri_react/static/js/main.0f691c6c.chunk.js.map",
+    "runtime-main.js": "/netart_cri_react/static/js/runtime-main.43754c30.js",
+    "runtime-main.js.map": "/netart_cri_react/static/js/runtime-main.43754c30.js.map",
+    "static/js/2.86f4c2e9.chunk.js": "/netart_cri_react/static/js/2.86f4c2e9.chunk.js",
+    "static/js/2.86f4c2e9.chunk.js.map": "/netart_cri_react/static/js/2.86f4c2e9.chunk.js.map",
+    "static/js/3.2903d1dd.chunk.js": "/netart_cri_react/static/js/3.2903d1dd.chunk.js",
+    "static/js/3.2903d1dd.chunk.js.map": "/netart_cri_react/static/js/3.2903d1dd.chunk.js.map",
+    "index.html": "/netart_cri_react/index.html",
+    "static/css/main.af2878eb.chunk.css.map": "/netart_cri_react/static/css/main.af2878eb.chunk.css.map",
+    "static/js/2.86f4c2e9.chunk.js.LICENSE.txt": "/netart_cri_react/static/js/2.86f4c2e9.chunk.js.LICENSE.txt",
+    "static/media/award.8563a9b8.png": "/netart_cri_react/static/media/award.8563a9b8.png",
+    "static/media/logo.c3067270.png": "/netart_cri_react/static/media/logo.c3067270.png",
+    "static/media/product.5d60ad10.png": "/netart_cri_react/static/media/product.5d60ad10.png",
+    "static/media/trophy.034f1e05.png": "/netart_cri_react/static/media/trophy.034f1e05.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.43754c30.js",
+    "static/js/2.86f4c2e9.chunk.js",
+    "static/css/main.af2878eb.chunk.css",
+    "static/js/main.0f691c6c.chunk.js"
+  ]
+}
